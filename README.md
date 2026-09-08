@@ -11,7 +11,7 @@
 >Python Backend/AI Engineer with more than 3 years of experience. I wrote my first "Hello World" at the age of 12, and my first commercial code at the age of 14. I have developed both backend and full-stack solutions for 20+ projects in various industries (EdTech, E-commerce, and CRM). I have also created projects from scratch that are still running in production. Currently, I am focusing more on ML/AI. I'm not looking for anything special, I just do what I like and try to make money from it. I'm open to suggestions.
 
 <p align="center">
-  <a href="https://t.me/Abdull_53" target="_blank">
+  <a href="https://t.me/abdullakhdev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   
